@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion de tournées"
+    id="8525a5bc-b9e1-4807-812b-fceac2a8d198"
+    documentation="L’application Gestion de tournées permet de gérer les tournées des magasins KINGFISHER. (maison mère de CONFORAMA).&#xD;&#xA;&#xD;&#xA;Panier de livraison et planning&#xD;&#xA;&#xD;&#xA;Deux cas d’usages :&#xD;&#xA;- Livraison des entrepôts vers les magasins CONFO&#xD;&#xA;- Livraison depuis les magasins vers les clients &#xD;&#xA;&#xD;&#xA;Usages :&#xD;&#xA;- Chauffeurs FRAIKIN&#xD;&#xA;- Equipe d’ordonnanceurs&#xD;&#xA;&#xD;&#xA;- Accès à IHM web, externalisée (à valider) pour les ORDO&#xD;&#xA;- Appli mobile android pour les chauffeurs&#xD;&#xA;&#xD;&#xA;Technologie :&#xD;&#xA;- AntsWay (SaaS)&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="France"/>
+  <properties
+      key="Contact_métier"
+      value="Albert HENAINE"/>
+  <properties
+      key="Contact_DSI"
+      value="Hatem SLIMANI"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

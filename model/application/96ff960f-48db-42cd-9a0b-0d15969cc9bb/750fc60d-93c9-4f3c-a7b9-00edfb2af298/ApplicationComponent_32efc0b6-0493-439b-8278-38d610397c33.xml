@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalogue"
+    id="32efc0b6-0493-439b-8278-38d610397c33"
+    documentation="Cette application permet aux commerciaux de rechercher, et d’imprimer au format PDF, les plans standards des véhicules afin de proposer un véhicule adapté aux besoins du client.&#xD;&#xA;&#xD;&#xA;Usages:&#xD;&#xA;- 220 Commerciaux&#xD;&#xA;- Usages quotidiens et répétés. &#xD;&#xA;- 1 administrateur pour gérer les droits d’accès.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Technologies:&#xD;&#xA;- Framework Symphony 3 ou 4 (à confirmer)&#xD;&#xA;- PHP version 7.2.10 (PROD) &#xD;&#xA;- MySQL version XXX (DEV)&#xD;&#xA;- MariaDB version 10.2 (PROD)&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Test - POC"/>
+  <properties
+      key="Périmètre"
+      value="France"/>
+  <properties
+      key="Contact_métier"
+      value="Oliver COUDERC"/>
+  <properties
+      key="Contact_DSI"
+      value="Hatem SLIMANI"/>
+  <properties
+      key="URL_application"
+      value="http://catalogue-dev-front.fraikin.net"/>
+  <properties
+      key="Lien_documentation"
+      value="https://drive.google.com/drive/folders/1ohyRUfH6lKASjaSiddTrFnnfqchYepeG"/>
+</archimate:ApplicationComponent>

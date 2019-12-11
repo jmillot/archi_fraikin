@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assu Tool"
+    id="fc6d4410-1be7-4d74-b169-20299e9bf769"
+    documentation="Cette application permet aux commerciaux d’avoir à disposition les plaquettes commerciales des offres d’assurances proposées par FRAIKIN.&#xD;&#xA;&#xD;&#xA;L’application doit être utilisable en mode déconnectée. La synchronisation des données du serveur vers chaque poste de travail est automatique.&#xD;&#xA;&#xD;&#xA;Usages :&#xD;&#xA;- 220 Commerciaux&#xD;&#xA;- Usages quotidiens et répétés. &#xD;&#xA;- 1 administrateur fonctionnel pour mettre à jour le contenu.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Technologie :&#xD;&#xA;- WordPress&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Conception"/>
+  <properties
+      key="Périmètre"
+      value="France"/>
+  <properties
+      key="Contact_métier"/>
+  <properties
+      key="Contact_DSI"
+      value="Chris BABAKISSINA"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

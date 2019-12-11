@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cockpit"
+    id="42300e89-40bd-4cc0-bfce-3c658b52d9ca">
+  <properties
+      key="Statut"/>
+  <properties
+      key="Périmètre"/>
+</archimate:ApplicationComponent>

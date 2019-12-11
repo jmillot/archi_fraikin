@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diligent"
+    id="a6cde378-1753-452c-8f44-746aaadb3d33"
+    documentation="L’application DILIGENT permet de digitaliser les conseils d’administration&#xD;&#xA;&#xD;&#xA;Usages :&#xD;&#xA;- Actionnaires&#xD;&#xA;- Top Manager&#xD;&#xA;">
+  <properties
+      key="Statut"/>
+  <properties
+      key="Périmètre"/>
+  <properties
+      key="Contact_métier"/>
+  <properties
+      key="Contact_DSI"
+      value="Hatem SLIMANI"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

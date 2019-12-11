@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LEASE IFRS16"
+    id="e2f287eb-5f03-4b76-a80e-887727c41298"
+    documentation="L’application Lease IFRS16 permet à son utilisateur d’alimenter un ensemble d’informations pour :&#xD;&#xA;·         Disposer d’une contrathèque (bibliothèque de contrats) &#xD;&#xA;·         Suivre l’évolution des contrats au cours du temps en fonction des événements&#xD;&#xA;·         Calculer de façon dynamique la Dette de loyer et le Droit d’utilisation&#xD;&#xA;·         Gérer les contrats en devises&#xD;&#xA;·         Générer les écritures pour les comptes sociaux et consolidés&#xD;&#xA;·         Restituer l’information à des fins d’analyse&#xD;&#xA;&#xD;&#xA;La norme IFRS 16 impose la comptabilisation au bilan du preneur de tous les contrats de location, ces derniers étant à l'origine d'une dette ou d'un droit d'utilisation sur l'actif loué, comptabilisé à l'actif dans les immobilisations.&#xD;&#xA;&#xD;&#xA;Usages : &#xD;&#xA;- Comptables et contrôleurs de gestion (environ 20 personnes)&#xD;&#xA;- Administrateurs (2 personnes)&#xD;&#xA;- Chaque utilisateur se connecte à la clôture mensuelle et annuelle&#xD;&#xA;- Chaque administrateur se connecte une dizaine de fois par mois.&#xD;&#xA;- Les données sont stockées en France et/ou en Europe&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Technologies :&#xD;&#xA;- Plateforme SaaS en architecture micro-services. &#xD;&#xA;- Front End : Single-Page-Apps sous ReactJS,&#xD;&#xA;- Back end : Java / Kotlin, NodeJS, MVC.Net.&#xD;&#xA;- Stockage : Postgres / SQL Server, Event Store, Elasticsearch.&#xD;&#xA;- Reporting :  MS Power BI&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="En test"/>
+  <properties
+      key="Périmètre"
+      value="Groupe"/>
+  <properties
+      key="Contact_métier"
+      value="Didier SIX"/>
+  <properties
+      key="Contact_DSI"
+      value="Claude BOURAÏMA"/>
+  <properties
+      key="URL_application"
+      value="https://inativ.viareport.com"/>
+  <properties
+      key="Lien_documentation"
+      value="https://drive.google.com/open?id=1cITJrbYmrHREgsXMASPyP0pjau1xe9k2"/>
+</archimate:ApplicationComponent>

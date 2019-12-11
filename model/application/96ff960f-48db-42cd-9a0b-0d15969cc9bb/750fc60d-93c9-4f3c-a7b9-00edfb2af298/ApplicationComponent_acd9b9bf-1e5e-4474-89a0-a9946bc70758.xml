@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrucksMe"
+    id="acd9b9bf-1e5e-4474-89a0-a9946bc70758"
+    documentation="L’application TRUCKSME sert à certains clients (LEROY MERLIN, KINGFISHER, BUT,…) pour la gestion de la réservation des véhicules « FRAIKIN » pour leurs clients.&#xD;&#xA;&#xD;&#xA;Usages : &#xD;&#xA;- Le personnel client du magasin&#xD;&#xA;- CSC (Centre de Service Client) – paramétrage de l’application : entrer la liste des véhicules loués pour ce client.&#xD;&#xA;- CRC (Centre de Relation Client) – gestion de la vie de la flotte (sortie pour révision) &#xD;&#xA;&#xD;&#xA;Technologie :&#xD;&#xA;- SAAS TrucksME&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Test"/>
+  <properties
+      key="Périmètre"
+      value="France"/>
+  <properties
+      key="Contact_métier"
+      value="Romain HERMEL"/>
+  <properties
+      key="Contact_DSI"
+      value="Hatem SLIMANI"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

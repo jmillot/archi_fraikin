@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Easy Park"
+    id="da79b407-de55-4a3c-8e43-c78084b9f837">
+  <properties
+      key="Statut"/>
+  <properties
+      key="Périmètre"/>
+</archimate:ApplicationComponent>

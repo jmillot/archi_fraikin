@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="24/24"
+    id="8118afbb-e3e9-4302-b422-8d954a398b7d"
+    documentation="L’application 24/24 est utilisée par le support du service client 24/24 afin de saisir les demandes d’interventions et de dépannages.&#xD;&#xA;&#xD;&#xA;Usages : &#xD;&#xA;Quelques dizaines d’utilisateurs (Hotline) &#xD;&#xA;&#xD;&#xA;Technologie:&#xD;&#xA;- VBA Excel XLSM&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="France"/>
+  <properties
+      key="Contact_métier"
+      value="Agnès MISSLER"/>
+  <properties
+      key="Contact_DSI"
+      value="Hattem SLIMANI"/>
+  <properties
+      key="URL_application"
+      value="Sur le U:/"/>
+  <properties
+      key="Lien_documentation"
+      value="Pas de documentation existante"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mecaplanning"
+    id="d3875132-ca54-4acf-a05e-1528d39f6a3d">
+  <properties
+      key="Statut"/>
+  <properties
+      key="Périmètre"/>
+</archimate:ApplicationComponent>

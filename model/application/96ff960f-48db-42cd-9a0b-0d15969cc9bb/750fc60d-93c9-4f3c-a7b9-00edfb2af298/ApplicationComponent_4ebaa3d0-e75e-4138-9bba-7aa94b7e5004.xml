@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MyFraikin"
+    id="4ebaa3d0-e75e-4138-9bba-7aa94b7e5004"
+    documentation="Cette application est destinée aux conducteurs des véhicules. Elle incite les chauffeurs a avoir une conduite éco-responsable et sécuritaire. &#xD;&#xA;Le comportement est déduit à partir de la position GPS du véhicule à travers l’application MyFraikin installé sur le téléphone du chauffeur.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Usages : &#xD;&#xA;- Premier POC : 15 Chauffeurs&#xD;&#xA;- Deuxième POC : 100 Chauffeurs&#xD;&#xA;&#xD;&#xA;- Cible : &#xD;&#xA;&#x9;- 40 000 chauffeurs&#xD;&#xA;&#x9;- Responsables de flotte coté client pour accéder aux résultats&#xD;&#xA;&#x9;1 Administrateur pour donner l’accès au nouveau client&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Technologie :&#xD;&#xA;- Application Android&#xD;&#xA;- DRIVEQUANT (algorithmique, calcul des scores)&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Test - POC"/>
+  <properties
+      key="Périmètre"
+      value="France"/>
+  <properties
+      key="Contact_métier"
+      value="Arthur PUECH"/>
+  <properties
+      key="Contact_DSI"
+      value="Hatem SLIMANI"/>
+  <properties
+      key="URL_application"
+      value="https://chauffeurs.poc.fraikin.com/login"/>
+  <properties
+      key="Lien_documentation"
+      value="https://drive.google.com/drive/folders/1xfVP5hTgchnX99Aq9vRdHbhckLfn4Ydr"/>
+</archimate:ApplicationComponent>

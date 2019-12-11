@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Techmap"
+    id="b48c7876-522a-4a8c-91b2-7cc93cd88561">
+  <properties
+      key="Statut"/>
+  <properties
+      key="Périmètre"/>
+</archimate:ApplicationComponent>
