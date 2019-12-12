@@ -1,0 +1,8 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranet Applicatif"
+    id="cf28a6dd-0413-4fe2-9043-47718d26d44b">
+  <properties
+      key="URL_application"
+      value="https://frk1:8005"/>
+</archimate:Folder>

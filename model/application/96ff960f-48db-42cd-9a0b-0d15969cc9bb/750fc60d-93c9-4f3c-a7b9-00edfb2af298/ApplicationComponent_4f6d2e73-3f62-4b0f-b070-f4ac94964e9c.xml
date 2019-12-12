@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PROD"
+    id="4f6d2e73-3f62-4b0f-b070-f4ac94964e9c">
+  <properties
+      key="Langage"
+      value="COBOL"/>
+</archimate:ApplicationComponent>

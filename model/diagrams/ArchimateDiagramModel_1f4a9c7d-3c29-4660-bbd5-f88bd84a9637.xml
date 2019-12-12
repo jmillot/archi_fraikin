@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI UK"
+    id="1f4a9c7d-3c29-4660-bbd5-f88bd84a9637">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="78e041d7-a7ec-47b1-be45-3627fddcb479">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="644682de-a12f-4297-8535-cd4da60b2f23"
+        source="78e041d7-a7ec-47b1-be45-3627fddcb479"
+        target="a4519160-78bc-44d2-8a2f-4519ce075c14">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_656d6a61-061c-415c-ae11-135bff336b77.xml#656d6a61-061c-415c-ae11-135bff336b77"/>
+    </sourceConnections>
+    <bounds
+        x="168"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_9bef6874-2ce1-4af3-b996-da8a1d3de293.xml#9bef6874-2ce1-4af3-b996-da8a1d3de293"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a4519160-78bc-44d2-8a2f-4519ce075c14"
+      targetConnections="644682de-a12f-4297-8535-cd4da60b2f23">
+    <bounds
+        x="408"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_84879e7d-d0e7-4500-87ff-9eb82a8a83c2.xml#84879e7d-d0e7-4500-87ff-9eb82a8a83c2"/>
+  </children>
+</archimate:ArchimateDiagramModel>
