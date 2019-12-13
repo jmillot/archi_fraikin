@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entretien sur parc"
+    id="6b5b1937-a5af-485d-8d86-90e92f8474a8"
+    documentation="Application mobile">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="France"/>
+  <properties
+      key="Contact_métier"
+      value="Jonathan FABRE / Olivier DUTRECH"/>
+  <properties
+      key="Contact_DSI"
+      value="Robert SPASENOVIC / Louis Rouilleault"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

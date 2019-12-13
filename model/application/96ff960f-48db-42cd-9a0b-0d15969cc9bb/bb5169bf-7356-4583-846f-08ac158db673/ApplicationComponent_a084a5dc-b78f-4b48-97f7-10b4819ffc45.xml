@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elcar"
+    id="a084a5dc-b78f-4b48-97f7-10b4819ffc45">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Pologne"/>
+  <properties
+      key="Contact_métier"
+      value="Paulina Panek"/>
+  <properties
+      key="Contact_DSI"
+      value="Marcin Winkler"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

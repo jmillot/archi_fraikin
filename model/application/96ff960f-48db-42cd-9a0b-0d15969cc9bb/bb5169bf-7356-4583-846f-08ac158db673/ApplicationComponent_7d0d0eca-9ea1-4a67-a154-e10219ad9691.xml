@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dekra"
+    id="7d0d0eca-9ea1-4a67-a154-e10219ad9691">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Pologne"/>
+  <properties
+      key="Contact_métier"
+      value="Jaroslaw Zelazo"/>
+  <properties
+      key="Contact_DSI"
+      value="Dariusz Maziukiewicz"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

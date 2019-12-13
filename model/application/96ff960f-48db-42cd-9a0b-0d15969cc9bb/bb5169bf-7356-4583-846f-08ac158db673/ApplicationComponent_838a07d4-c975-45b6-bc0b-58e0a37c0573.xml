@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leasing Monitor"
+    id="838a07d4-c975-45b6-bc0b-58e0a37c0573">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Pologne"/>
+  <properties
+      key="Contact_métier"
+      value="Sylwia Sztychmiler"/>
+  <properties
+      key="Contact_DSI"
+      value="Marcin Winkler"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

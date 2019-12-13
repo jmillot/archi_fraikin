@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Apps"
+    id="f9433b50-7755-4adf-9b7b-3bb9e99a2538"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Groupe"/>
+  <properties
+      key="Contact_métier"/>
+  <properties
+      key="Contact_DSI"
+      value="Nicolas DESCAMPS"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

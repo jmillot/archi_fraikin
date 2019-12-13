@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KIR"
+    id="734f57a0-2944-48c1-a048-6198f7a9c095">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Pologne"/>
+  <properties
+      key="Contact_métier"
+      value="Sylwia Sztychmiler"/>
+  <properties
+      key="Contact_DSI"
+      value="Marcin Winkler"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

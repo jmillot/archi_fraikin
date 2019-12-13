@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WTW POP Assistance"
+    id="7f5e4d5e-c522-4baf-9b62-be8df5eb313e">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Pologne"/>
+  <properties
+      key="Contact_métier"
+      value="Maciej Dziubek"/>
+  <properties
+      key="Contact_DSI"
+      value="Dariusz Maziukiewicz"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

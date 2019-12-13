@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Symfonia"
+    id="a3d561a1-1522-4ca6-88c6-bb7fbadad4f2">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Pologne"/>
+  <properties
+      key="Contact_métier"
+      value="Sylwia Sztychmiler"/>
+  <properties
+      key="Contact_DSI"
+      value="Dariusz Maziukiewicz"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

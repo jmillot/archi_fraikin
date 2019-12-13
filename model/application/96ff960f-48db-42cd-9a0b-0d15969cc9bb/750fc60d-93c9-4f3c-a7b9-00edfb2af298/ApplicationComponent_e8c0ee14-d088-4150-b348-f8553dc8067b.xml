@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Run My Process (RMP)"
+    id="e8c0ee14-d088-4150-b348-f8553dc8067b"
+    documentation="Solution de workflow&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="France"/>
+  <properties
+      key="Contact_métier"/>
+  <properties
+      key="Contact_DSI"
+      value="Virginie FRITZ / Julien CHARLES"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>
