@@ -1,0 +1,8 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sauvegarde CV - TalentSoft"
+    id="2525283b-61a1-430a-9db7-8c90cc549fbc">
+  <properties
+      key="type-mime"
+      value="pdf"/>
+</archimate:ApplicationEvent>
