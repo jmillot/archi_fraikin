@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internet - Fraikin PL"
+    id="e870c689-9145-49a7-a814-d19512c3355d">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Pologne"/>
+  <properties
+      key="Contact_métier"
+      value="Sandra Szkwarek"/>
+  <properties
+      key="Contact_DSI"
+      value="Dariusz Maziukiewicz"/>
+  <properties
+      key="URL_application"
+      value="https://www.fraikin.pl/"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

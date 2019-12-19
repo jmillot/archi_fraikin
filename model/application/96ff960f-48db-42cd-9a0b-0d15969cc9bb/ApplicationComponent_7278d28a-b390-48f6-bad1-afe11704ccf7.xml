@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETAFI"
+    id="7278d28a-b390-48f6-bad1-afe11704ccf7">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Groupe"/>
+  <properties
+      key="Contact_métier"
+      value="Véronique PAILLARD / Jerome SPIRI"/>
+  <properties
+      key="Contact_DSI"
+      value="Chamrouen LUONG / Ludovic ROBERT"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>

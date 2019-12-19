@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google Drive"
+    id="e03364bd-10a5-43bd-84e4-cbce0c6bff67"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="Statut"
+      value="Production"/>
+  <properties
+      key="Périmètre"
+      value="Groupe"/>
+  <properties
+      key="Contact_métier"/>
+  <properties
+      key="Contact_DSI"
+      value="Nicolas DESCAMPS"/>
+  <properties
+      key="URL_application"/>
+  <properties
+      key="Lien_documentation"/>
+</archimate:ApplicationComponent>
