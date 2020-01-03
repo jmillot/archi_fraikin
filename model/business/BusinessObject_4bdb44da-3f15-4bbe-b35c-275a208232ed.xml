@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Candidature"
+    id="4bdb44da-3f15-4bbe-b35c-275a208232ed"
+    documentation="Formulaire de dépot de candidature&#xD;&#xA;Civilité (non obligatoire)&#xD;&#xA;Nom&#xD;&#xA;Prénom&#xD;&#xA;Code postal&#xD;&#xA;Ville / Pays de résidence&#xD;&#xA;Téléphone&#xD;&#xA;Email (non obligatoire)&#xD;&#xA;Langue / niveau&#xD;&#xA;Niveau d’études / Niveau dans le poste recherché (non obligatoire)&#xD;&#xA;Nombre d’années d’expérience (non obligatoire)&#xD;&#xA;Métier recherché&#xD;&#xA;Type de contrat recherché&#xD;&#xA;Zone géographique ciblée&#xD;&#xA;Provenance de la candidature"/>
