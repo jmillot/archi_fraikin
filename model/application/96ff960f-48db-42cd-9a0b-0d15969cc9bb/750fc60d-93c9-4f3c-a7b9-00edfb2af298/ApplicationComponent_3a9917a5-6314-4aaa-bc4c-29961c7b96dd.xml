@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Devis VI"
+    id="3a9917a5-6314-4aaa-bc4c-29961c7b96dd"
+    documentation="Devis commercial, fait sur CarSystem">
+  <properties
+      key="Category"
+      value="Administration des ventes"/>
+</archimate:ApplicationComponent>

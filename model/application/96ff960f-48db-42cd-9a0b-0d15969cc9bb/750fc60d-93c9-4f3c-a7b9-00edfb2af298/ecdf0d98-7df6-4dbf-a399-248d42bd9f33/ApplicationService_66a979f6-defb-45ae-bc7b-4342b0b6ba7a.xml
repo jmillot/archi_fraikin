@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion d'atelier"
+    id="66a979f6-defb-45ae-bc7b-4342b0b6ba7a"
+    documentation="'- gestion du temps / kilométrage &#xD;&#xA;- planning des visites&#xD;&#xA;- convocation aux visites &#xD;&#xA;commande de pièces &#xD;&#xA;- catalogues de pièces détachée &#xD;&#xA;&#xD;&#xA;- Réparations"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion commerciale"
+    id="71c98ecd-154a-4c15-9d9a-30630280e64d"
+    documentation="'- Création / modification des clients &#xD;&#xA;- Gestion des prestations facturables et facturation &#xD;&#xA;- Adresses de facturation.."/>

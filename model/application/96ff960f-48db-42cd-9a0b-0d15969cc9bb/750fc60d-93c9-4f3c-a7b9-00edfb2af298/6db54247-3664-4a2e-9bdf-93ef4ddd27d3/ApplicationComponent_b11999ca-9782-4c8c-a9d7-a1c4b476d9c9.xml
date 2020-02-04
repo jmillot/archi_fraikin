@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SalesForce - Services"
+    id="b11999ca-9782-4c8c-a9d7-a1c4b476d9c9"
+    documentation="'- Gestion&#xD;&#xA;- Planification des rdv de maintenance de camions&#xD;&#xA;- Utilisée pour 10 clients grands compte &#xD;&#xA;- En 2020, prévu d'ajouter tout les clients en accès directe à ce module &#xD;&#xA;service client 2.0 : gestion d'entrteien de vehicule et de la refacturation de client, devis "/>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trailer WIN"
+    id="ccea8f90-cd5e-4f74-8fb4-f8a47092285f"
+    documentation="'- ouitl de calcul et répartition de charge &#xD;&#xA;- moteur de calcul pour le rassemblement des vehicules">
+  <properties
+      key="Hosting"
+      value="Open"/>
+  <properties
+      key="Category"
+      value="Bureau d'étude"/>
+</archimate:ApplicationComponent>

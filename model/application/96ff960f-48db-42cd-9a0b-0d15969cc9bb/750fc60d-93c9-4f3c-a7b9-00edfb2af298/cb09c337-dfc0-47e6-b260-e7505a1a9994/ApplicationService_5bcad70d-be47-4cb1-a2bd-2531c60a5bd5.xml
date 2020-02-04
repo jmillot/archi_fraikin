@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC Achats exploitations"
+    id="5bcad70d-be47-4cb1-a2bd-2531c60a5bd5"
+    documentation="'- Pièces détachées (réparation des véhicules)&#xD;&#xA;- EDI fournisseur &#xD;&#xA;- Comparateur de prix"/>

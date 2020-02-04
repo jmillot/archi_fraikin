@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VECOS"
+    id="0cb787ef-1284-4cab-9872-3f77a4d2f209"
+    documentation="'- Bureau Etude&#xD;&#xA;- Developement externe&#xD;&#xA;- relation étroite avec PROD, permet de créer des plans de construction et modifications des véhicules&#xD;&#xA;- les plans sont présents dans la base DB2 mais l'applicatif permettra de faire les changements">
+  <properties
+      key="Hosting"
+      value="Mainframe / Open"/>
+  <properties
+      key="Category"
+      value="Gestion des prix"/>
+</archimate:ApplicationComponent>

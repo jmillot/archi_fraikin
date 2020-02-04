@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IBM - GTS"
+    id="403a7e39-5bf6-44e2-9349-413c77e1f77e"
+    documentation="'GTS (global technology services) : Infrastructure and managed services (administartion of security, backups, disaster recovery, hosting , security patching, health checks, DRP tests) and governance (Copil, technical comitte) :&#xD;&#xA;- LOT 1: France (ERP Mainframe, VM citrix, Linux) &#xD;&#xA;- LOT 2: UK and Poland (ERP M3)&#xD;&#xA;- LOT 3: UK (Legacy IT systems : xSeries, former local datacenter) "/>

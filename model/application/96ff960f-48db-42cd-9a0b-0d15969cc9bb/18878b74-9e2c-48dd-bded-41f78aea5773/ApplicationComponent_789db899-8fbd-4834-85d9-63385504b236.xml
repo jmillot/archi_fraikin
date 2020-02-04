@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraikin supply"
+    id="789db899-8fbd-4834-85d9-63385504b236"
+    documentation="Purchase order (commande des pièces de réparation vers leurs fournisseurs)&#xD;&#xA;Application On-premises hébergée chez IBM.&#xD;&#xA;Application Web/"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Véhicules"
+    id="69c901a6-9caa-4536-9a49-0050e228c48d"
+    documentation="'- Gestion des caractéritiques des véhicules &#xD;&#xA;- Déclarations de cession - vol &#xD;&#xA;- achat flotte pour revente "/>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Carsystem"
+    id="5def9442-7555-47a5-8e47-790b37e71090"
+    documentation="P2a Commercial requirements &#xD;&#xA;P2b Technical study&#xD;&#xA;Pricing">
+  <properties
+      key="Hosting"
+      value="saas"/>
+  <properties
+      key="Category"
+      value="Gestion des prix"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion du Parc"
+    id="ba184ee0-4049-4447-8a50-6253aa9912d2"
+    documentation="positionnement du parc :&#xD;&#xA;- situation permannente&#xD;&#xA;- position commerciale &#xD;&#xA;postion physique&#xD;&#xA;planning des vehicules &#xD;&#xA;convocation aux visites &#xD;&#xA;liste véhicules par siyuation / position &#xD;&#xA;recherche véhicule"/>

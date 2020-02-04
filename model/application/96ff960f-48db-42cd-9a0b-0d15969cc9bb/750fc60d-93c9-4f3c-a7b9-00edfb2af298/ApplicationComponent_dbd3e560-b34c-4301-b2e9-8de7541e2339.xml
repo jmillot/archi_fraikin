@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bareme"
+    id="dbd3e560-b34c-4301-b2e9-8de7541e2339"
+    documentation="Base DB2 d'édition des plans &#xD;&#xA;Utile pour le pricing des nouvelles locations et l'évolution des tarfications">
+  <properties
+      key="Category"
+      value="Gestion des prix"/>
+</archimate:ApplicationComponent>

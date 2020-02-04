@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Carsystem"
+    id="7ddbb182-35ca-4abd-b050-6f4dcbc0992b"
+    documentation="A l'origine, CarSystème est un mini ERP (gestion de flotte)&#xD;&#xA;(gestion de vehicule , réservation, planning (ceour applicatif) - backend) ">
+  <properties
+      key="Hosting"
+      value="Locally in ES"/>
+  <properties
+      key="Contract"
+      value="Sofico"/>
+  <properties
+      key="Category"
+      value="Gestion des prix"/>
+</archimate:ApplicationComponent>

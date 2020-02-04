@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Télématique"
+    id="31bf7bff-efe3-40f2-8fec-929909b2a5d0"
+    documentation="Le fournisseur install le boitier, collecte les infos, et restitut les résultats à Fraikin via des déposes de fichiers plats.&#xD;&#xA;Telematique (1 contrat par fournisseur, 5 fournisseurs) : &#xD;&#xA;- Masternaut (7-8000  France + 2000 UK)&#xD;&#xA;- ELcar (2000 PL)&#xD;&#xA;- Trafilog (80-100 FR/UK/ES)&#xD;&#xA;- JALtest (50 FR/ES)&#xD;&#xA;- XXX&#xD;&#xA; => Un projet de 5 ans en cours pour tout centraliser "/>

@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comptabilité"
+    id="6a34298f-08ba-46c8-adf4-e6598f515798"
+    documentation="CICS / Batch">
+  <properties
+      key="Hosting"
+      value="Mainframe / prod"/>
+</archimate:ApplicationInterface>

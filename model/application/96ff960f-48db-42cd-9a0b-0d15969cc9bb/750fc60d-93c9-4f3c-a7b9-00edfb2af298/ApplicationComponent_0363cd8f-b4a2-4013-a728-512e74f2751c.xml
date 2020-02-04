@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approvisionnement"
+    id="0363cd8f-b4a2-4013-a728-512e74f2751c"
+    documentation="'Géré par les services généreaux">
+  <properties
+      key="Category"
+      value="Gestion de l'atelier"/>
+  <properties
+      key="Contact_métier"
+      value="Service généraux"/>
+</archimate:ApplicationComponent>

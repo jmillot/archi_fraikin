@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalogue"
+    id="fd1de280-d9a0-49aa-9280-4905d185e6a6">
+  <properties
+      key="Category"
+      value="Bureau d'étude"/>
+  <properties
+      key="Hosting"
+      value="Mainframe"/>
+</archimate:ApplicationService>

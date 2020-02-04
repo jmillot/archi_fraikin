@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DIE Servair"
+    id="309512fc-c27b-4bab-8c7a-41bf6edc77db"
+    documentation="Application tablette 4G liée à Salesforce community pour pouvoir déclarer immédiatement un incident (ex. SLA 30mn)."/>

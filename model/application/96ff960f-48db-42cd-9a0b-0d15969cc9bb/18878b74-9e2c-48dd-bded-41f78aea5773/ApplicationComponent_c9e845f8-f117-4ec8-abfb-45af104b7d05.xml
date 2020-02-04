@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LBI"
+    id="c9e845f8-f117-4ec8-abfb-45af104b7d05"
+    documentation="Insurance cost analysis &#xD;&#xA;Treasury management&#xD;&#xA;Data extracted from M3, crystal reports, interfaces with LSO (users M3 application)"/>

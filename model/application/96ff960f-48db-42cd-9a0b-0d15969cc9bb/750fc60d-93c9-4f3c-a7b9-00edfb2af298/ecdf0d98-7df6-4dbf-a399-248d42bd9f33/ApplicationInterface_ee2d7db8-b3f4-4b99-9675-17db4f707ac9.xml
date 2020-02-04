@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paie"
+    id="ee2d7db8-b3f4-4b99-9675-17db4f707ac9"
+    documentation="CICS / Batch">
+  <properties
+      key="Hosting"
+      value="Mainframe / prod"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bornes"
+    id="7691d645-98a6-4582-bbf4-b80db7b7a0a8"
+    documentation="'- Chargement des temps de conduite, primes, etc. &#xD;&#xA;- une borne dans chaque agence ">
+  <properties
+      key="Category"
+      value="RH"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GAIA - DataOne"
+    id="e4b27848-a8d6-4396-b730-1de6f68ff4c7"
+    documentation="'- Numérisation des factures fournisseurs (FR)&#xD;&#xA;- - Depuis 2017 : 350,000 factures fournisseurs OPEX par an &#xD;&#xA;- Archivage physique des factures fournisseurs (non obligatoire par la loi) &#xD;&#xA;- Edition des factures clients + signature electronique&#xD;&#xA;- - - Depuis mai 2018 :  injection de 18,000 factures clients par mois (environ 224000 par an dont 100% des factures client en Benelux, and Swisse) &#xD;&#xA;- Signature éléctronique des contrats en Espagne (depuis mai 2019)&#xD;&#xA;- Mise sous pli des factures client pour la FR, Benelux and Swisse + affranchissement&#xD;&#xA;- Archivage electronique (coffre-fort éléctronique).&#xD;&#xA;- - GAIA devient la source des factures pour PROD (depuis mai 2018) and pour le service espace client (FR and Groupe)"/>

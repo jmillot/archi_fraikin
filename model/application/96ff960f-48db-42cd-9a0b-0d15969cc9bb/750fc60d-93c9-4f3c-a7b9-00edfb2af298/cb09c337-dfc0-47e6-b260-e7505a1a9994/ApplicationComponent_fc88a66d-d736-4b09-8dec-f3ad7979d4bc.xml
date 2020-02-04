@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sage immo"
+    id="fc88a66d-d736-4b09-8dec-f3ad7979d4bc"
+    documentation="Gestion des immobilisations&#xD;&#xA;Calcul d'amortissement sur les assets (véhicules)">
+  <properties
+      key="Contract"
+      value="SAGE Immo"/>
+</archimate:ApplicationComponent>

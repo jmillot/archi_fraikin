@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CISCO Meraki"
+    id="edabe647-7d88-4f0b-b106-6a5ee2ab9a2d"
+    documentation="Cisco Meraki. Permet aux chromebase directement vers Internet"/>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hyperion HFM"
+    id="85f66ec5-fc51-48ad-b45c-ba2c5eb47fae"
+    documentation="- HFM &#xD;&#xA;- Profits &amp; Losts &#xD;&#xA;- KPI de gestion &#xD;&#xA;Financial data (UK)">
+  <properties
+      key="Category"
+      value="Finance &amp; Administration"/>
+</archimate:ApplicationComponent>

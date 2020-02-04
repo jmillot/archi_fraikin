@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion des carburants"
+    id="edf99f39-9e25-4ee4-a68c-8db29905cd57"
+    documentation="'- Gestion des achats (vrac)&#xD;&#xA;- Movement de cuve &#xD;&#xA;- gestion des cartes "/>

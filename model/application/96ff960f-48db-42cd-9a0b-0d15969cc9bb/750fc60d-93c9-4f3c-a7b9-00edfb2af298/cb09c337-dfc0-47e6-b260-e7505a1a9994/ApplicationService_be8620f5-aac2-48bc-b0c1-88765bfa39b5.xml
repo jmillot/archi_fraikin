@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturation"
+    id="be8620f5-aac2-48bc-b0c1-88765bfa39b5"
+    documentation="'- Traitement factures CAPEX GAIA"/>

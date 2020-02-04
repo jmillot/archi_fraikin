@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion des contrats"
+    id="a30c6b37-b2a8-45cd-9e6a-bcce60dddb38"
+    documentation="Gestion de vie du contrat (ex. transfert de propriété de contrats, substitution du contrat, ..)"/>

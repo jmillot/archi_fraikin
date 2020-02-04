@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion des sinistres"
+    id="b77e7183-349f-4a4c-9784-386f1ed88b1a"
+    documentation="'- gestion des dossiers d'assurance &#xD;&#xA;- Assurance sinistre &#xD;&#xA;- Compatabilité auxillaire sinistre "/>

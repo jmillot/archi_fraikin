@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Recrutement"
-    id="ddb7dee1-3790-41fb-95eb-cbf57f7da6f9">
+    id="ddb7dee1-3790-41fb-95eb-cbf57f7da6f9"
+    documentation="Référencement des propriétés et locations immobilières ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1ac71fb6-f4a0-4b09-b34c-6ecfd5701438">

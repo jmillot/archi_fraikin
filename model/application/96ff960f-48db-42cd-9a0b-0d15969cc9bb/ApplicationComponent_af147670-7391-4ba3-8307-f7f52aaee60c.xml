@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Google BigQuery"
+    id="af147670-7391-4ba3-8307-f7f52aaee60c"
+    documentation="BI via Big Querry (Google) en relation avec Tableau Software pour la présentation des données"/>

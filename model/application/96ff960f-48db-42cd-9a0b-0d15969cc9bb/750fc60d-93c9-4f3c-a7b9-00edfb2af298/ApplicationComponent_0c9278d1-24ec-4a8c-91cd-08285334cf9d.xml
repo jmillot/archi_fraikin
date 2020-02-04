@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access"
+    id="0c9278d1-24ec-4a8c-91cd-08285334cf9d"
+    documentation="Evaluation des riques par les sites (non alimentée par le Mainframe / prod) ">
+  <properties
+      key="Category"
+      value="Gestion d'atelier"/>
+</archimate:ApplicationComponent>

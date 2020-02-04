@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AntsRoute"
-    id="e30169a7-feaa-4ecb-b725-6c9d7e7221da">
+    id="e30169a7-feaa-4ecb-b725-6c9d7e7221da"
+    documentation="Antsway">
   <properties
       key="URL_application"
       value="https://app.antsroute.com/"/>

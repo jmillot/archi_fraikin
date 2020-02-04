@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FO"
+    id="f00c8863-d5d7-4cc6-aa4b-57376b8eecc6"
+    documentation="Photothèques">
+  <properties
+      key="Category"
+      value="Gestion de flotte"/>
+</archimate:ApplicationService>

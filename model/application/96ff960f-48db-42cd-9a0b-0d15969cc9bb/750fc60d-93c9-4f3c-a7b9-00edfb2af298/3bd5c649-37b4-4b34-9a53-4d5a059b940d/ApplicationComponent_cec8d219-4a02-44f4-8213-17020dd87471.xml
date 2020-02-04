@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strada"
+    id="cec8d219-4a02-44f4-8213-17020dd87471"
+    documentation="'- Gestion des temps de conduite &#xD;&#xA;- 3 points de concentrations Strada en Directions Régionales ??? C'est une application délivrée via Citrix pour plus de 150 personnes.">
+  <properties
+      key="Category"
+      value="RH"/>
+</archimate:ApplicationComponent>

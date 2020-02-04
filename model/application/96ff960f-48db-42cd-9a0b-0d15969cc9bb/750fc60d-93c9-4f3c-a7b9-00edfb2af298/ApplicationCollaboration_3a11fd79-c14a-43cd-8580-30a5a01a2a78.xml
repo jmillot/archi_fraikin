@@ -1,0 +1,5 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infocentre MSSQL"
+    id="3a11fd79-c14a-43cd-8580-30a5a01a2a78"
+    documentation="Pour faire du reporting au niveau des différents méties Fraikin (ex. gestion de flottes… ).&#xD;&#xA;Pas de nouvelles données (copies des données depuis DB2)"/>

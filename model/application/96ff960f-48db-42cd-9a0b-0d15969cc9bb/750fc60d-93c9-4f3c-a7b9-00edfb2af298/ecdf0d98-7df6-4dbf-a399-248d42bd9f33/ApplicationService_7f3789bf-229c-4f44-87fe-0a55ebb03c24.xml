@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Contractuel"
+    id="7f3789bf-229c-4f44-87fe-0a55ebb03c24">
+  <properties
+      key="Category"
+      value="Administration des ventes"/>
+</archimate:ApplicationService>

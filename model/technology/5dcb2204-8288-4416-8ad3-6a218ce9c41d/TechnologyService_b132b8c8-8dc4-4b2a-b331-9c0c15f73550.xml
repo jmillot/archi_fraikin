@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gamma"
+    id="b132b8c8-8dc4-4b2a-b331-9c0c15f73550"
+    documentation="UK MPLS Network&#xD;&#xA;ISP (Internet breakout for the UK users)&#xD;&#xA;Fix Line and Sip Connections"/>

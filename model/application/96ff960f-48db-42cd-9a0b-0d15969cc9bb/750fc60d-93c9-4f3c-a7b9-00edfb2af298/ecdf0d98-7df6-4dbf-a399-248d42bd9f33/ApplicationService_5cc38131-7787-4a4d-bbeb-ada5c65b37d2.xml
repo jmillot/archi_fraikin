@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facturation"
+    id="5cc38131-7787-4a4d-bbeb-ada5c65b37d2"
+    documentation="'- Locations VI &#xD;&#xA;- Régles &#xD;&#xA;- Chauffeurs ">
+  <properties
+      key="Category"
+      value="Finance &amp; administration"/>
+</archimate:ApplicationService>

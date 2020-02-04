@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer website, customer portal"
+    id="4db761e1-7c49-4606-9de3-a9d037faaf13">
+  <properties
+      key="Contract"
+      value="ImagePlus"/>
+</archimate:ApplicationInterface>

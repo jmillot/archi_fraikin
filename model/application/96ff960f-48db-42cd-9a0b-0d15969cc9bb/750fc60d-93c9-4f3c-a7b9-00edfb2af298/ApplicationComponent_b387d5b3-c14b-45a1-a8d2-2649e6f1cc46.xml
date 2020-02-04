@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Carsystem"
+    id="b387d5b3-c14b-45a1-a8d2-2649e6f1cc46"
+    documentation="Calcul du baréme.&#xD;&#xA;Données sources sont dans DB2,&#xD;&#xA;Pricing fait dans CarSystème.">
+  <properties
+      key="Category"
+      value="Gestion des prix"/>
+  <properties
+      key="Hosting"
+      value="VPN"/>
+</archimate:ApplicationComponent>

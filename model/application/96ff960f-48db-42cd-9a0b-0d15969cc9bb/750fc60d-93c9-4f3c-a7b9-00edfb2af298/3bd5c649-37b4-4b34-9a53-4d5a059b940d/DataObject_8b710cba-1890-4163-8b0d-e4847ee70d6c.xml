@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access"
+    id="8b710cba-1890-4163-8b0d-e4847ee70d6c"
+    documentation="Divers application MS Access servant au service RH, au contrôle de gestion, au service commercial, à la direction technique.&#xD;&#xA;Reporting: données source dans DB2">
+  <properties
+      key="Category"
+      value="Reporting"/>
+</archimate:DataObject>

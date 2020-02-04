@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion des commandes"
+    id="a61d0f25-efee-44b8-99cf-bf5372502a72"
+    documentation="Passage du devis commercial en besoin commercial (garanties, …) pour aboutir au contrat.&#xD;&#xA;Transformation du besoin commercial en besoin technique puis supply chain."/>
