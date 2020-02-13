@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Module de stockage"
+    id="d91a1b9f-f568-4535-bcc3-bf3b7299a06e"
+    documentation="Logiciel de stockage Caringo Swarm 7.5 dans un cluster de 3 moeuds&#xD;&#xA;- 1 x Intel Xeon E5-2623 soit un total de 8 vCPU&#xD;&#xA;- 2 x 16 Go de RAM soit 32 Go de RAM&#xD;&#xA;- 3 x 6 TO pour 9 To de stockage"/>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Module applicatif"
+    id="0203aafe-f9f6-466d-b0ae-a933befb80ca"
+    documentation="- 2 x Intel Xeon E5-2660 ... soit 40 vCPU&#xD;&#xA;- 12 x 16 Go de RAM soit 192 Go&#xD;&#xA;- 6 x 1.2 To&#xD;&#xA;- Controleur Raid PERC H730&#xD;&#xA;- Thales Shield Solo 500+e F3&#xD;&#xA;- Windows Server 2012"/>
