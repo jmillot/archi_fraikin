@@ -1,0 +1,8 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serveur Web IVEKO-Power"
+    id="c38e5d38-8aae-4905-b06e-f793fd45a4a2">
+  <properties
+      key="URL_application"
+      value="http://power-iveco.com"/>
+</archimate:Device>
