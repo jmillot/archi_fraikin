@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Candidatures spontanées"
-    id="a428f079-69a2-44ba-96e1-d86400817a03">
+    name="Demande éligibilité"
+    id="8b373517-588a-4ffc-8282-57324734effa">
   <source
-      xsi:type="archimate:BusinessEvent"
-      href="BusinessEvent_9699a242-ba7f-4813-a880-d0cda3b2a782.xml#9699a242-ba7f-4813-a880-d0cda3b2a782"/>
-  <target
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_fd862ba8-ad07-45bd-9bb5-a4742921f160.xml#fd862ba8-ad07-45bd-9bb5-a4742921f160"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a9cc3eef-d750-41aa-84ab-e4aec898cb2f.xml#a9cc3eef-d750-41aa-84ab-e4aec898cb2f"/>
 </archimate:FlowRelationship>

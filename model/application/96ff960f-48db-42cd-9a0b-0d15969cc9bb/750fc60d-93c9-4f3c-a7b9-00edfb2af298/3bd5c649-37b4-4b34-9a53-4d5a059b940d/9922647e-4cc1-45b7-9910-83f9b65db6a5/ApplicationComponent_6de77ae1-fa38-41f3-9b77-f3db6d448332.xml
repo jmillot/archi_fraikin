@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="assessfirst.com"
-    id="6de77ae1-fa38-41f3-9b77-f3db6d448332"/>
+    id="6de77ae1-fa38-41f3-9b77-f3db6d448332"
+    documentation="Nom&#xD;&#xA;Prenom&#xD;&#xA;Code postal&#xD;&#xA;Ville&#xD;&#xA;Poste ciblé"/>

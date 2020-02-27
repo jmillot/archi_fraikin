@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CR Entretien"
+    id="7d6ad23f-048b-476f-8f4c-0cf6ffee7483">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fd862ba8-ad07-45bd-9bb5-a4742921f160.xml#fd862ba8-ad07-45bd-9bb5-a4742921f160"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_8749b1db-644f-4a34-9c1d-d6a81efa36cf.xml#8749b1db-644f-4a34-9c1d-d6a81efa36cf"/>
+</archimate:AccessRelationship>

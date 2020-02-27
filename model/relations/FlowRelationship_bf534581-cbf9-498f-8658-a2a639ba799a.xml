@@ -1,11 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Candidatures spontanées"
-    id="a428f079-69a2-44ba-96e1-d86400817a03">
+    name="Renseignements sur le CV"
+    id="bf534581-cbf9-498f-8658-a2a639ba799a">
   <source
-      xsi:type="archimate:BusinessEvent"
-      href="BusinessEvent_9699a242-ba7f-4813-a880-d0cda3b2a782.xml#9699a242-ba7f-4813-a880-d0cda3b2a782"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_8a5c5723-322d-4088-916f-9308739a4758.xml#8a5c5723-322d-4088-916f-9308739a4758"/>
   <target
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_fd862ba8-ad07-45bd-9bb5-a4742921f160.xml#fd862ba8-ad07-45bd-9bb5-a4742921f160"/>

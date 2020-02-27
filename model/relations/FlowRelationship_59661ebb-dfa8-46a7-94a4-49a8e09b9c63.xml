@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mail"
     id="59661ebb-dfa8-46a7-94a4-49a8e09b9c63">
   <source
       xsi:type="archimate:BusinessActor"

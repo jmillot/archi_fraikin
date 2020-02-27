@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Renseigne"
+    id="89eb37e6-65ce-417b-bc5f-f71c75744541">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_05bb2035-7ec0-4560-9cb7-64e6cffa0ef5.xml#05bb2035-7ec0-4560-9cb7-64e6cffa0ef5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a9cc3eef-d750-41aa-84ab-e4aec898cb2f.xml#a9cc3eef-d750-41aa-84ab-e4aec898cb2f"/>
+</archimate:FlowRelationship>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Everycheck"
-    id="a9cc3eef-d750-41aa-84ab-e4aec898cb2f"/>
+    id="a9cc3eef-d750-41aa-84ab-e4aec898cb2f"
+    documentation="Nom&#xD;&#xA;Prenom&#xD;&#xA;Date de naissance&#xD;&#xA;Téléphone&#xD;&#xA;Adresse&#xD;&#xA;Email&#xD;&#xA;Diplôme (pj scannée)&#xD;&#xA;Carte d'identité (pj scannée)&#xD;&#xA;Titre de séjour (pj scannée)&#xD;&#xA;Numéro de sécurité sociale&#xD;&#xA;Formation&#xD;&#xA;Expériences professionnelles avec dates et employeurs"/>
