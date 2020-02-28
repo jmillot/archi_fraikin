@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA sur Profils candidats"
+    id="59b9ec5e-818a-4e14-a28c-34a050f207a5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_97e7480f-d379-4a9d-89a4-bd474dba7689.xml#97e7480f-d379-4a9d-89a4-bd474dba7689"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b11cf09a-dfd9-4421-a65c-b02181d1ec94.xml#b11cf09a-dfd9-4421-a65c-b02181d1ec94"/>
+</archimate:CompositionRelationship>
