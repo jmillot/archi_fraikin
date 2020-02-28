@@ -32,12 +32,21 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="910f5368-b787-431f-a85c-6220fb8d65c9"
-      targetConnections="be1bb1c4-4fca-4fc6-83e4-c50edb2e5ac8">
+      targetConnections="be1bb1c4-4fca-4fc6-83e4-c50edb2e5ac8 6c0d576f-db43-4f4a-99c7-6824e04045f2">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8201b978-ed79-4ebf-a17e-e99b9678723a"
+        source="910f5368-b787-431f-a85c-6220fb8d65c9"
+        target="9dc624e3-9642-4dc3-946d-8bc34bfa07cc">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_e2b2ac9e-a08a-4ddb-8e33-57b728307411.xml#e2b2ac9e-a08a-4ddb-8e33-57b728307411"/>
+    </sourceConnections>
     <bounds
         x="456"
-        y="252"
+        y="192"
         width="120"
-        height="55"/>
+        height="169"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_4f6d2e73-3f62-4b0f-b070-f4ac94964e9c.xml#4f6d2e73-3f62-4b0f-b070-f4ac94964e9c"/>
@@ -139,7 +148,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9dc624e3-9642-4dc3-946d-8bc34bfa07cc"
-        targetConnections="584dac3c-6ed5-462e-8c03-75f715240af9">
+        targetConnections="584dac3c-6ed5-462e-8c03-75f715240af9 8201b978-ed79-4ebf-a17e-e99b9678723a">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="c5d49257-fc93-485d-b461-80f9a54198e9"
@@ -148,6 +157,20 @@
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_7b146df2-8928-4163-ac23-5d1350a6c19c.xml#7b146df2-8928-4163-ac23-5d1350a6c19c"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="6c0d576f-db43-4f4a-99c7-6824e04045f2"
+          source="9dc624e3-9642-4dc3-946d-8bc34bfa07cc"
+          target="910f5368-b787-431f-a85c-6220fb8d65c9">
+        <bendpoints
+            startX="-276"
+            startY="21"
+            endX="276"
+            endY="36"/>
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_2c7132f7-12c8-42a0-81a5-6399aa9f3574.xml#2c7132f7-12c8-42a0-81a5-6399aa9f3574"/>
       </sourceConnections>
       <bounds
           x="72"
@@ -209,9 +232,9 @@
       content="De Salesfoce vers CarSystem:&#xD;&#xA;Propects&#xD;&#xA;&#xD;&#xA;De CarSystem vers Salesforce:&#xD;&#xA;Devis">
     <bounds
         x="648"
-        y="372"
+        y="360"
         width="185"
-        height="80"/>
+        height="92"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
