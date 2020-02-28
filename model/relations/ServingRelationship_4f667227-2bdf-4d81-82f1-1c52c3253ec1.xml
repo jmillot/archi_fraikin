@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participe entretien"
+    id="4f667227-2bdf-4d81-82f1-1c52c3253ec1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_8500721c-0fbf-406b-b4d4-cb854cb9c7c5.xml#8500721c-0fbf-406b-b4d4-cb854cb9c7c5"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fd862ba8-ad07-45bd-9bb5-a4742921f160.xml#fd862ba8-ad07-45bd-9bb5-a4742921f160"/>
+</archimate:ServingRelationship>
