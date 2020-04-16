@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Demande de teste"
+    name="Demande de test"
     id="f045b1cd-54c8-457c-8e81-6685e92d8437">
   <source
       xsi:type="archimate:BusinessActor"
